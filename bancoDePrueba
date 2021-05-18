@@ -1,0 +1,9 @@
+
+
+var obj={a:2,b:3,c:4}
+
+var ar=["asd","dds"]
+
+
+
+console.log(ar.filter((e)=>e!=="asd"))

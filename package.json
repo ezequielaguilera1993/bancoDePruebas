@@ -1,0 +1,16 @@
+{
+  "name": "banco_de_prueba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron packager ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^12.0.7",
+    "electron-packager": "^15.2.0"
+  }
+}
